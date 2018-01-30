@@ -1,6 +1,3 @@
-%test 1
-% A = [1 5 7;1/5 1 4; 1/7 1/4 1];
-% R = column_normalize(A);
 
 filename = 'AHP.xlsx';
 
@@ -64,4 +61,3 @@ C3 = consistency(RP_5,2);
 C4 = consistency(RP_6,2);
 C5 = consistency(RP_7,2);
 C6 = consistency(RP_8,2);
-
